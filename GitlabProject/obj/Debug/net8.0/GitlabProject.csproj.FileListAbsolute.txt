@@ -1,0 +1,14 @@
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\bin\Debug\net8.0\GitlabProject.exe
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\bin\Debug\net8.0\GitlabProject.deps.json
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\bin\Debug\net8.0\GitlabProject.runtimeconfig.json
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\bin\Debug\net8.0\GitlabProject.dll
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\bin\Debug\net8.0\GitlabProject.pdb
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.AssemblyInfoInputs.cache
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.AssemblyInfo.cs
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.csproj.CoreCompileInputs.cache
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.dll
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\refint\GitlabProject.dll
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.pdb
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\GitlabProject.genruntimeconfig.cache
+C:\Users\kolom\RiderProjects\GitlabProject\GitlabProject\obj\Debug\net8.0\ref\GitlabProject.dll
